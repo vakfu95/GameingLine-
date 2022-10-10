@@ -12,9 +12,11 @@ header {
    
 }
 header img {
-    width:60px;
-    height:70px;
-    float:left;
+    width:90px;
+    height:90px;
+}
+header h1 {
+      float: right;
 }
 
 
